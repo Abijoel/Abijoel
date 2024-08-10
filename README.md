@@ -1,4 +1,4 @@
-Software Engineer - Java | MicroServices | Spring Boot | RESTful API |React| Agile Methodologist| Docker | CI/CD
+Software Engineer - Java | Spring | SpringBoot | Hibernate | MySql | PostgresQL | REST API |html|css|javascript|React| Agile(AGCP) | TeamWork | Effective Communication | Leadership
 
 <!---
 Abijoel/Abijoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
